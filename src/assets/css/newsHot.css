@@ -1,0 +1,115 @@
+	.hot-one{
+		width: 1.5rem;
+		height: 0.8rem;
+		border:1px solid #71B1CC;
+		text-align: center;
+		line-height: 0.8rem;
+		border-radius: 0.5rem;
+		font-size: 15px;
+		margin-left: 0.2rem;
+		color: #71B1CC;
+	}
+	.hot-two{
+		position: absolute;
+		width: 2rem;
+		height: 0.8rem;
+		border:1px solid #71B1CC;
+		text-align: center;
+		line-height: 0.8rem;
+		border-radius: 0.5rem;
+		font-size: 15px;
+		margin-left: 1.9rem;
+		margin-top: -0.8rem;
+		color: #71B1CC;
+	}
+	.hot-three{
+		position: absolute;
+		width: 1.5rem;
+		height: 0.8rem;
+		border:1px solid #71B1CC;
+		text-align: center;
+		line-height: 0.8rem;
+		border-radius: 0.5rem;
+		font-size: 15px;
+		margin-top: -0.8rem;
+		margin-left: 4.1rem;
+		color: #71B1CC;
+	}
+	.hot-four{
+		position: absolute;
+		width: 1.5rem;
+		height: 0.8rem;
+		border:1px solid #71B1CC;
+		text-align: center;
+		line-height: 0.8rem;
+		border-radius: 0.5rem;
+		font-size: 15px;
+		margin-top: -0.8rem;
+		margin-left: 5.8rem;
+		color: #71B1CC;
+	}
+	.hot-five{
+		position: absolute;
+		width: 3rem;
+		height: 0.8rem;
+		border:1px solid #71B1CC;
+		text-align: center;
+		line-height: 0.8rem;
+		border-radius: 0.5rem;
+		font-size: 15px;
+		margin-left: 0.2rem;
+		margin-top: 0.3rem;
+		color: #71B1CC;
+	}
+	.hot-six{
+		position: absolute;
+		width: 3.9rem;
+		height: 0.8rem;
+		border:1px solid #71B1CC;
+		text-align: center;
+		line-height: 0.8rem;
+		border-radius: 0.5rem;
+		font-size: 15px;
+		margin-left: 3.4rem;
+		margin-top: 0.3rem;
+		color: #71B1CC;
+	}
+	.hot-seven{
+		position: absolute;
+		width: 1.5rem;
+		height: 0.8rem;
+		border:1px solid #71B1CC;
+		text-align: center;
+		line-height: 0.8rem;
+		border-radius: 0.5rem;
+		font-size: 15px;
+		margin-left: 0.2rem;
+		margin-top: 1.4rem;
+		color: #71B1CC;
+	}
+	.hot-eghit{
+		position: absolute;
+		width: 3.7rem;
+		height: 0.8rem;
+		border:1px solid #71B1CC;
+		text-align: center;
+		line-height: 0.8rem;
+		border-radius: 0.5rem;
+		font-size: 15px;
+		margin-left: 1.9rem;
+		margin-top: 1.4rem;
+		color: #71B1CC;
+	}
+	.hot-nine{
+		position: absolute;
+		width: 1.5rem;
+		height: 0.8rem;
+		border:1px solid #71B1CC;
+		text-align: center;
+		line-height: 0.8rem;
+		border-radius: 0.5rem;
+		font-size: 15px;
+		margin-top: 1.4rem;
+		margin-left: 5.8rem;
+		color: #71B1CC;
+	}

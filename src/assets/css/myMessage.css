@@ -1,0 +1,33 @@
+.message{
+	width: 100%;
+	height: 2rem;
+	border: 1px solid #e4e4e4;
+	background-color: #ffffff;
+}
+img{
+	width: 1.6rem;
+	height: 1.6rem;
+	border-radius: 50px;
+	background-color: #66CCFF;
+	margin-top: 0.15rem;
+	margin-left: 0.3rem;
+}
+.message p{
+	position: absolute;
+	margin-left: 2.5rem;
+	margin-top: -1.5rem;
+	font-size: 15px;
+}
+.message span{
+	position: absolute;
+	margin-left: 2.5rem;
+	margin-top: -0.8rem;
+	color: #949494;
+}
+em{
+	position: absolute;
+	font-size: 24px;
+	color: #CACACA;
+	margin-left: 6.9rem;
+	margin-top: -1.2rem;
+}

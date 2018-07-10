@@ -1,0 +1,51 @@
+.zz-formation{
+	width: 100%;
+	background-color: #FFFFFF;
+}
+.new{
+	height: 2rem;
+	border-bottom: 1px solid #E4E4E4;
+	font-size: 14px;
+	margin-left: 0.2rem;
+	margin-right: 0.2rem;
+	line-height: 0.5rem;
+	margin-top: 0.2rem;
+}
+.pll{
+	position:absolute;
+	font-size: 12px;
+	text-align: center;
+	width: 2rem;
+	height: 0.3rem;
+	line-height: 0.3rem;
+	background-color: #F69582;
+	color: #FFFFFF;
+	margin-top: 0.5rem;
+	margin-left: 0.05rem;
+}
+.time{
+	position: absolute;
+	color: #AEAEB6;
+	font-size: 13px;
+	margin-left: 2.3rem;
+	margin-top: 0.4rem;
+}
+.hots{
+	width: 100%;
+	height: 2rem;
+	border-top: 1px solid #E4E4E4;
+	border-bottom: 1px solid #E4E4E4;
+}
+.tit{
+	font-size: 15px;
+	font-family: "微软雅黑";
+	margin-left: 0.5rem;
+}
+.bui{
+	font-family: "微软雅黑";
+	font-size: 0.25rem;
+	color: #6B6B6B;
+}
+.sums{
+	color: #2E81C2;
+}

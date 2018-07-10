@@ -1,0 +1,130 @@
+.dataDisplay{
+		margin:0 auto;
+		width: 7rem;
+		height: 1.2rem;
+		margin-top: 0.1rem;
+		background-color: #71B1CC;
+	}
+	.muchs1{
+		margin:0 auto;
+		font-size: 18px;
+		color: #FFFFFF;
+	}
+	.muchs2{
+		font-size: 15px;
+		color: #FFFFFF;
+	}
+	.new{
+		margin:0 auto;
+		border:1px solid #E4E4E4;
+	}
+	.p-three{
+		text-align: left;
+		margin-left: 0.2rem;
+		margin-top: 20px;
+		height: 1.2rem;
+		line-height: 1.2rem;
+		border-bottom: 1px solid #E4E4E4;
+	}
+	.p-three span{
+		margin-left: 0.2rem;
+		margin-top: 0.08rem;
+	}
+	span{
+		position: absolute;
+		font-size: 10px;
+		margin-left: -1rem;
+		margin-top: -0.05rem;
+		color: #7979A0;
+	}
+	.ph{
+		color: #666666;
+		font-family: "微软雅黑";
+	}
+	hr{
+		color: #F2F2F2;
+		border: 1px solid;
+	}
+	.icont{
+		position: absolute;
+		width: 1rem;
+		height: 0.4rem;
+		color: #FFFFFF;
+		background-color: #F69582;
+		margin-left: 5.5rem;
+		margin-top: 0.5rem;
+	}
+	.icont1{
+		position: absolute;
+		text-align: center;
+		width: 1rem;
+		height: 0.4rem;
+		color: #FFFFFF;
+		font-family: "微软雅黑";
+		background-color: #F69582;
+		margin-left: 0.8rem;
+		margin-top: -0.8rem;
+	}
+/*news*/
+	.new1{
+		margin:0 auto;
+		width: 7rem;
+		height: 6rem;
+		border:1px solid #E4E4E4;
+	}
+	p{
+		text-align: center;
+		font-size: 15px;
+		color: black;
+	}
+	.p1{
+		margin-top: 20px;
+		height: 1.6rem;
+		border-bottom: 1px solid #E4E4E4;
+	}
+	.spa{
+		position: absolute;
+		margin-top: -0.7rem;
+		margin-left:3.5rem;
+	}
+	.spa1{
+		margin-top: -0.8rem;
+		margin-left:2rem;
+	}
+	.spa2{
+		margin-top: 1.3rem;
+		margin-left:4.5rem;
+	}
+	.menu{
+		position: absolute;
+		width: 1rem;
+		height: 0.4rem;
+		color: #FFFFFF;
+		font-family: "微软雅黑";
+		background-color: #F69582;
+		margin-left: 1rem;
+		margin-top: -0.8rem;
+	}
+	.menu1{
+		position: absolute;
+		width: 1rem;
+		height: 0.4rem;
+		color: #FFFFFF;
+		font-family: "微软雅黑";
+		background-color: #F69582;
+		margin-left: 1rem;
+		margin-top: 1.2rem;
+		}
+.bui{
+	font-size: 15px;
+	margin-left: -0.5rem;
+	margin-top: -0.2rem;
+	color: #6B6B6B;
+}
+.sums{
+	font-family: "微软雅黑";
+	font-size: 0.25rem;
+	margin-left: -0.3rem;
+	margin-top: -0.2rem;
+	color: #2E81C2;
+}

@@ -1,0 +1,22 @@
+	.top{
+		margin-top: 1rem;
+	}
+	.draft{
+		width: 100%;
+		height: 2rem;
+		border-bottom: 1px solid #e4e4e4;
+	}
+	img{
+		width: 1.6rem;
+		height: 1.6rem;
+		margin-top: 0.2rem;
+		margin-left: 0.2rem;
+	}
+	p{
+		position: absolute;
+		margin-left: 2rem;
+		margin-right: 0.1rem;
+		margin-top: -1.5rem;
+		font-size: 14px;
+		font-family: "微软雅黑";
+	}

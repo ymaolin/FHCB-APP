@@ -1,0 +1,42 @@
+.all{
+	width: 100%;
+	height: auto;
+}
+.hotNews-content,.hotNews-content-two{
+	width: 90%;
+	margin:0 auto;
+	height: 28em;
+	border: 1px solid #A4A4A4;
+	border-radius: 20px;
+	font-size: 14px;
+	line-height: 22px;
+	letter-spacing: 2px;
+}
+.contentsummary,.contentsummarytwo{
+	width: 90%;
+	height: auto;
+	margin: 0 auto;
+	margin-top: 2em;
+}
+.contentsummary-one,.contentsummary-two{
+	width: 100%;
+	height: 8em;
+	margin-top: 1em;
+}
+.contentsummary-three{
+	width: 100%;
+	height: 7em;
+	margin-top: 1em;
+}
+.contentsummary-one,.contentsummary-two{
+	border-bottom: 1px solid #E4E4E4;
+}
+.hotvalue{
+    color: white;
+	background: #F69582;
+	float: left;
+}
+.source{
+	float: left;
+	margin-left: 16em;
+}

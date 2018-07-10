@@ -1,0 +1,65 @@
+.key-word{
+		width: 100%;
+		height: 3.5rem;
+		background-color: #FFFFFF;
+	}
+	.zz-formation{
+	width: 100%;
+	background-color: #FFFFFF;
+	border:1px solid #E4E4E4;
+}
+.new{
+	height: 2rem;
+	border-bottom: 1px solid #E4E4E4;
+	font-size: 13px;
+	margin-left: 0.2rem;
+	margin-right: 0.2rem;
+	margin-top: 0.2rem;
+}
+.pll{
+	font-size: 0.1rem;
+	text-align: center;
+	width: 2.3rem;
+	height: 0.3rem;
+	line-height: 0.3rem;
+	background-color: #F69582;
+	color: #FFFFFF;
+	margin-top: 1.1rem;
+	margin-left: 0.1rem;
+}
+.time{
+	position: absolute;
+	color: #AEAEB6;
+	font-size: 15px;
+	margin-left: 3rem;
+	margin-top: -0.3rem;
+}
+.bui{
+	font-family: "微软雅黑";
+	font-size: 0.25rem;
+	color: #6B6B6B;
+}
+.sums{
+	color: #2E81C2;
+}
+.angle-one,.angle-two,.angle-three,.angle-four,.angle-five,.angle-six,.angle-seven,.angle-eghit{
+	width: 3.4rem;
+	height: 0.8rem;
+	text-align: center;
+	line-height: 0.8rem;
+	background-color: #71B1CC;
+	color: #FFFFFF;
+	font-size: 15px;
+}
+.angle-one{
+	margin-left: 0.2rem;
+}
+.angle-five,.angle-seven,.angle-three{
+	margin-left: 0.2rem;
+	margin-top: 0.2rem;
+}
+.angle-six,.angle-eghit,.angle-four,.angle-two{
+	position: absolute;
+	margin-left: 3.9rem;
+	margin-top: -0.8rem;
+}

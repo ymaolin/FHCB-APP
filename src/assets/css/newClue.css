@@ -1,0 +1,29 @@
+
+	span{
+		font-size: 18px;
+		color: #7979A0;
+	}
+/*news*/
+	.new-one,.new-two{
+		margin:0 auto;
+		width: 7rem;
+		border:1px solid #E4E4E4;
+	}
+	p{
+		text-align: center;
+		font-size: 15px;
+		color: black;
+	}
+	.p-name{
+		margin-top: 20px;
+		height: 1.6rem;
+		border-bottom: 1px solid #E4E4E4;
+	}
+	.spa{
+		position: absolute;
+		margin-top: 0.5rem;
+		margin-left:5.7rem;
+	}
+	.topic{
+		margin-top: 1rem;
+	}

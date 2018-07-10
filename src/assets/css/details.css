@@ -1,0 +1,38 @@
+h2{
+	margin-left: 0.5rem;
+	font-size: 15px;
+	font-family: "微软雅黑";
+}
+.information{
+	color: #A1A1A1;
+	text-align: left;
+	margin-left: 0.5rem;
+}
+.zaiy{
+	margin-left: 0.5rem;
+	font-size: 15px;
+	font-family: "微软雅黑";
+	margin-right: 0.2rem;
+}
+.titles{
+	width: 100%;
+	height: 5rem;
+	background-color: #F2F2F2;
+}
+img{
+	width: 100%;
+	height: 5rem;
+}
+.date-img{
+	width: 90%;
+	margin:0 auto;
+}
+p{
+	text-align: left;
+	font-size: 15px;
+	line-height: 25px;
+}
+.Written{
+	width: 90%;
+	margin:0 auto;
+}
